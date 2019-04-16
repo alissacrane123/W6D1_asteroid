@@ -1,0 +1,14 @@
+/* PHASE 7: Online */
+
+.online {
+  background-color: rgb(28, 212, 28);
+  color: white;
+  width: 100px;
+  position: absolute;
+  transform: rotate(-45deg) translate(130px,-130px);
+  position:fixed;
+ 
+
+ 
+
+}
